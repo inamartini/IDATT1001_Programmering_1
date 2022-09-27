@@ -1,4 +1,4 @@
-public class Oving1 {
+public class Oppgave1 {
 
 
 
