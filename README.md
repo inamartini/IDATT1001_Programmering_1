@@ -172,7 +172,9 @@
   Lag et enkelt klientprogram som legger inn data i et objekt av klassen ArbTaker og kaller alle objektmetodene du har laget. Kontroller at resultatene blir riktige.
   Lag et menystyrt program som gir brukeren muligheten til å forandre på datainnholdet i objektet. La programmet gå i løkke slik at flere forandringer kan gjøres. For hvert løkkegjennomløp skal programmet sende passende get-meldinger til objektet og skrive ut resultatet av disse, slik at det er mulig å kontrollere at endringen er blitt utført. Lag eventuelt toStrin()-metoder og bruk disse.
 
-Øving 9 Tabeller av objekter Oppgave 1
+Øving 9 Tabeller av objekter 
+
+Oppgave 1
 
   Lag en klasse Student. Den skal ha to objektvariabler:
   private String navn; // entydig(!)
