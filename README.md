@@ -1,5 +1,5 @@
-# Ina-Martini
-## øvinger IDATT1001
+# IDATT1001 Programmering 1
+## øvinger
 
 ### Øving 1 Variabler, datatyper og uttrykk 
 
